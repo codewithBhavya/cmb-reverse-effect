@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamod:ital,wght@1,600&display=swap');
+
+.font1{
+    font-family: 'Berkshire Swash' , cursive;
+}
+.font2{
+    font-family: 'EB Garamod', serif;
+}
+.ital{
+    font-style: italic;
+}
